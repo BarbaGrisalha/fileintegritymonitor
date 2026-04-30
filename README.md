@@ -77,4 +77,6 @@ Esse arquivo já está no `.gitignore`.
 
 ## Licença
 
-Projeto pessoal para estudo e portfólio.
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+
+Você pode usar, copiar, modificar e distribuir este projeto livremente, desde que mantenha o aviso de copyright e a licença original.
